@@ -4,7 +4,13 @@ Ridiculously simple http server for static files.
 
 ## Install
 
-    $ go get github.com/hecticjeff/httpserver
+On OS X you can install with Homebrew:
+
+    $ brew install chrismytton/formula/httpserver
+
+Or you can install from source using Go:
+
+    $ go get github.com/chrismytton/httpserver
 
 ## Usage
 
